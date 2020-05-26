@@ -1,2 +1,6 @@
 Index.psd
 Index.png
+pizza.7z
+
+#git remote add origin git@github.com:tomik1982/pizza.git
+#git push -u origin master
